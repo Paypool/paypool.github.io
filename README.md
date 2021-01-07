@@ -1,2 +1,2 @@
-# Paypool.github.io
+# paypool.github.io
 Landing site for paypool
